@@ -1,7 +1,6 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there 👋 ,
 <br>🎓 I'm a computer science student with a passion for building mobile apps using Flutter.  <br>📱 Currently focused on cross-platform app development with Firebase, BLoC/Cubit, and clean UI/UX design.  <br>🛠️ I enjoy turning ideas into real, usable apps — especially productivity tools.  <br>🌱 Always learning and improving my skills in Dart, problem-solving, and app architecture.  <br>
-3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3> align="center">A passionate Flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-ahmad-0&label=Profile%20views&color=0e75b6&style=flat" alt="ali-ahmad-0" /> </p>
 
