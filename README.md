@@ -60,8 +60,8 @@ My goal is to become a well-rounded software engineer who can build reliable app
 
 ## 🚀 Featured Projects
 
-- 📚 **[Bookly](https://github.com/Ali-Ahmad-0/Bookly)** — A Flutter application project.
-- 🧠 **Examio / SmartQuiz** — An exam platform concept involving assessment management, monitoring, and reporting.
+- 📚 **Quran plus** — Flutter-based Quran app with surah navigation and quran reading experience.
+- 🧠 **SmartQuiz** — AI-Based Exam Management System | Capstone project
 
 *Explore my repositories to see what I'm learning and building.*
 
