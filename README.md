@@ -1,28 +1,95 @@
-## Hi there 👋 ,
-<br>🎓 I'm a computer science fresh graduate with a passion for building mobile apps using Flutter.  <br>📱 Currently focused on cross-platform app development with Firebase, BLoC/Cubit, and clean UI/UX design.  <br>🛠️ I enjoy turning ideas into real, usable apps — especially productivity tools.  <br>🌱 Always learning and improving my skills in Dart, problem-solving, and app architecture.  <br>
+# Hi there, I'm Ali Ahmad 👋
 
+🎓 **Computer Science Graduate | Flutter Developer | Aspiring Software Engineer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-ahmad-0" alt="ali-ahmad-0" /></a> </p>
+I'm a Computer Science graduate from Beni Suef University, passionate about building useful mobile applications and growing as a software engineer.
 
-- 📫 How to reach me **ali.ahmad.dev26@gmail.com**
+- 📱 Developing cross-platform mobile applications with **Flutter and Dart**.
+- 🧩 Strengthening my programming fundamentals, **C++, problem-solving, and Data Structures & Algorithms**.
+- 🏗️ Exploring **OOP, databases, Git, and software design principles** to write better, more maintainable code.
+- ⚙️ Expanding my knowledge of **backend development with .NET** and how mobile applications communicate with APIs.
+- ☁️ Gaining hands-on experience with **AWS cloud services**.
+- 🌱 Always learning, building projects, and improving one step at a time.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ali-ahmad-032616266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ali-ahmad-032616266" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-# 📊 GitHub Stats:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-ahmad-0&" alt="ali-ahmad-0" /></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ahmad-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My goal is to become a well-rounded software engineer who can build reliable applications from the user interface to the backend.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ali-Ahmad-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-update readme
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+</p>
+
+### Mobile Development
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+</p>
+
+### Databases, Cloud & Development Tools
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 📚 **[Bookly](https://github.com/Ali-Ahmad-0/Bookly)** — A Flutter application project.
+- 🧠 **Examio / SmartQuiz** — An exam platform concept involving assessment management, monitoring, and reporting.
+
+*Explore my repositories to see what I'm learning and building.*
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Ahmad-0" alt="Ali Ahmad's GitHub streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ahmad-0&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 **Email:** [ali.ahmad.dev26@gmail.com](mailto:ali.ahmad.dev26@gmail.com)
+- 💼 **LinkedIn:** [Ali Ahmad](https://www.linkedin.com/in/ali-ahmad-032616266/)
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity. Keep learning, keep building."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ali-Ahmad-0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
